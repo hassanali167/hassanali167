@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hassan Ali
 
-🎓 Software Engineering Student @ Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, Haripur (Pakistan)
+🎓 Software Engineering Student @ PAF-IAST Haripur.
 
 ## 💻 DevOps & Cloud Engineer | 🤖 AI Developer | 🔐 Cybersecurity Enthusiast
 
