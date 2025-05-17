@@ -123,7 +123,7 @@ Sino Pak Center for Artificial Intelligence (SPCAI), Haripur, Pakistan
 <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/argo/EF7B4D" width="36" height="36" alt="Argo CD" /></a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ansible/EE0000" width="36" height="36" alt="Ansible" /></a>
 <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Proxmox-E57000" width="80" height="28" alt="Proxmox" /></a>
-<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/0D1117" width="80" height="28" alt="Github" /></a>
+<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/EF7B4D" width="80" height="28" alt="Github" /></a>
 </p>
 
 ---
