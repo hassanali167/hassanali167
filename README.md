@@ -2,23 +2,23 @@
 
 🎓 Software Engineering Student @ Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, Haripur (Pakistan)
 
-## 💻 DevOps Engineer | 🤖 AI Specialist | 🔐 Cybersecurity Enthusiast
+## 💻 DevOps & Cloud Engineer | 🤖 AI Developer | 🔐 Cybersecurity Enthusiast
 
 ---
 
 ## 🧠 About Me
 
-I’m a passionate Software Engineering student (6th semester) with a focus on **Cloud Computing**, **DevOps**, **Artificial Intelligence**, and **Cybersecurity**. I thrive on building scalable, automated, and secure solutions, from CI/CD pipelines to AI-powered vulnerability scanners. With hands-on experience at the Sino Pak Center for Artificial Intelligence (SPCAI), I combine strong problem-solving, teamwork, and leadership skills to tackle complex challenges. Fun fact: I code best with a cup of coffee and a tough problem to solve! ☕
+I’m Hassan Ali, a driven 6th-semester Software Engineering student at PAF-IAST, fueled by a passion for Cloud Computing, DevOps, AI, and Cybersecurity. I specialize in designing secure, scalable systems—think automated CI/CD pipelines and AI-driven security tools. My experience at the Sino Pak Center for Artificial Intelligence (SPCAI) has honed my ability to solve tough problems while leading and collaborating in dynamic teams.
 
 ---
 
 ## 🛠️ Tech Stack & Interests
 
 - 💻 **Languages**: Python, C++, JavaScript, HTML, CSS  
-- 🧰 **DevOps & Cloud**: Kubernetes, Docker, Jenkins, GitOps, Proxmox, GitHub Actions, Argo CD  
+- 🧰 **DevOps & Cloud**: Kubernetes, Docker, Jenkins, GitOps, Proxmox, GitHub Actions, Argo CD ,Ansible 
 - 🤖 **AI & ML**: spaCy, LLaMA 3, Groq API, Gradio, Chainlit, Machine Learning  
 - 📡 **IoT & Embedded**: Arduino, IoT (Smart Dustbin, Fire Alarm, Incubator)  
-- 🔍 **Interests**: Cloud Infrastructure, CI/CD Automation, Cybersecurity, AI-Driven Security, Web Development  
+- 🔍 **Interests**: Cloud Infrastructure, CI/CD Automation, Cybersecurity, AI-Driven Security, Web Development , Python Development 
 
 ---
 
