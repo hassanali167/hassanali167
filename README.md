@@ -17,7 +17,6 @@ I’m a passionate Software Engineering student (6th semester) with a focus on *
 - 💻 **Languages**: Python, C++, JavaScript, HTML, CSS  
 - 🧰 **DevOps & Cloud**: Kubernetes, Docker, Jenkins, GitOps, Proxmox, GitHub Actions, Argo CD  
 - 🤖 **AI & ML**: spaCy, LLaMA 3, Groq API, Gradio, Chainlit, Machine Learning  
-- 🌐 **Web Development**: React, Node.js, MongoDB, Streamlit  
 - 📡 **IoT & Embedded**: Arduino, IoT (Smart Dustbin, Fire Alarm, Incubator)  
 - 🔍 **Interests**: Cloud Infrastructure, CI/CD Automation, Cybersecurity, AI-Driven Security, Web Development  
 
@@ -25,17 +24,16 @@ I’m a passionate Software Engineering student (6th semester) with a focus on *
 
 ## 🚀 Current Focus
 
-- Building **AI-powered security tools** for automated vulnerability scanning  
+- Building **AI-powered security tools** for automated Pentesting tools  
 - Optimizing **cloud infrastructure** with Proxmox and Kubernetes  
 - Enhancing **CI/CD pipelines** for seamless deployments  
-- Exploring **React** and **TypeScript** for modern web applications  
 - Contributing to open-source DevOps and AI projects  
 
 ---
 
 ## 📂 Featured Projects
 
-Here are some highlights from my 30+ GitHub repositories, showcasing my expertise in DevOps, AI, and automation:
+Here are some highlights from my GitHub repositories, showcasing my expertise in DevOps, AI, and automation:
 
 - 🔐 **[SecureDeploy](https://github.com/hassanali167/SecureDeploy)**  
   An AI-powered GitHub repository vulnerability scanner built with **Python**, **Trivy**, and **Groq API (LLaMA 3)**. Automates security scans with a clean **Gradio** UI and generates remediation reports.  
@@ -74,16 +72,6 @@ Sino Pak Center for Artificial Intelligence (SPCAI), Haripur, Pakistan
 *Jul 2023 – Sep 2023*  
 - Trained and optimized 4–5 NER models using **Python** and **spaCy**, improving accuracy via fine-tuning.  
 - Preprocessed datasets and evaluated model performance with precision metrics.
-
----
-
-## 🏆 Honours and Awards
-
-- **Google Cybersecurity Specialization** (Coursera)  
-  Mastered network security, risk management, threat detection, and incident response.  
-- **Kubernetes Certifications** (Coursera)  
-  - **Kubernetes Fundamentals**: Core concepts, deployment, and management.  
-  - **Advanced Kubernetes**: Scalability, security, and cluster management.
 
 ---
 
