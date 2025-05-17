@@ -78,7 +78,6 @@ Sino Pak Center for Artificial Intelligence (SPCAI), Haripur, Pakistan
 ## 🌱 Currently Learning
 
 - **Advanced Kubernetes** for scalable cloud deployments  
-- **React Hooks** and **TypeScript** for modern web development  
 - **Penetration testing** and ethical hacking tools  
 - **AI integrations** in cybersecurity and automation  
 
