@@ -68,9 +68,9 @@ Here are some highlights from my GitHub repositories, showcasing my expertise in
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassanali167)
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hassanali167" alt="GitHub Streak" />
+</p>
 
 
 
