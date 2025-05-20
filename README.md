@@ -49,47 +49,11 @@ Here are some highlights from my GitHub repositories, showcasing my expertise in
 
 ---
 
-## 🎓 Education
-
-**B.S. in Software Engineering**  
-Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, Haripur, Pakistan  
-*Oct 2022 – Present (6th Semester)*  
-- Specialized in Cloud Computing, DevOps, and AI-driven software solutions.  
-- Developed strong problem-solving, teamwork, and leadership skills.
-
----
-
-## 💼 Work Experience
-
-**High-Performance Computing (HPC) Apprenticeship**  
-Sino Pak Center for Artificial Intelligence (SPCAI), Haripur, Pakistan  
-*Nov 2024 – Apr 2025*  
-- Deployed and managed virtual machines on **Proxmox** for high-performance cloud environments.  
-- Optimized cloud infrastructure for efficient resource allocation.  
-
-**AI Internship**  
-Sino Pak Center for Artificial Intelligence (SPCAI), Haripur, Pakistan  
-*Jul 2023 – Sep 2023*  
-- Trained and optimized 4–5 NER models using **Python** and **spaCy**, improving accuracy via fine-tuning.  
-- Preprocessed datasets and evaluated model performance with precision metrics.
-
----
-
 ## 🌱 Currently Learning
 
 - **Advanced Kubernetes** for scalable cloud deployments  
 - **Penetration testing** and ethical hacking tools  
 - **AI integrations** in cybersecurity and automation  
-
----
-
-## 💡 What I Can Help With
-
-- **DevOps**: CI/CD pipelines, Kubernetes, Docker, Ansible automation  
-- **AI**: Building AI-powered tools with LLaMA, spaCy, and Groq API  
-- **Cybersecurity**: Vulnerability scanning, secure coding practices  
-- **Web Development**: React-based UIs, Node.js backends  
-- **IoT**: Arduino-based automation and sensor integration  
 
 ---
 
