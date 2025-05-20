@@ -68,8 +68,8 @@ Here are some highlights from my GitHub repositories, showcasing my expertise in
 
 ## 📊 GitHub Stats
 
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanali167&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanali167&layout=compact&theme=radical)
+
+
 
 
 
