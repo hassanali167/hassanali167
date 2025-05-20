@@ -70,9 +70,9 @@ Here are some highlights from my GitHub repositories:
 ## 📊 GitHub Stats
 
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassanali167&theme=dark&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanali167&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
