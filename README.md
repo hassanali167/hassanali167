@@ -69,9 +69,10 @@ Here are some highlights from my GitHub repositories:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hassanali167" alt="GitHub Streak" />
-</p>
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassanali167&theme=dark&hide_border=true)
+
 
 ---
 
