@@ -61,9 +61,7 @@ Here are some highlights from my GitHub repositories:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hassanali202/)  
 - 📧 [Email](mailto:hassanali1335@outlook.com)  
-- 🌐 [Portfolio](https://hassanali202.vercel.app/)  
-- 📍 Khanpur, Pakistan  
-- 🧑‍💻 [GitHub Profile](https://github.com/hassanali167)
+- 🌐 [Portfolio](https://hassanali202.vercel.app/)
 
 ---
 
