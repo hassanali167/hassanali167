@@ -90,7 +90,7 @@ Here are some highlights from my GitHub repositories:
   <a href="https://argoproj.github.io/argo-cd/" target="_blank"><img src="https://cdn.simpleicons.org/argo/EF7B4D" width="36" height="36" alt="Argo CD" /></a>
   <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.simpleicons.org/ansible/EE0000" width="36" height="36" alt="Ansible" /></a>
   <a href="https://www.proxmox.com/" target="_blank"><img src="https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox" height="28" alt="Proxmox" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/EF7B4D" width="36" height="36" alt="GitHub" /></a>
 </p>
 
 ---
