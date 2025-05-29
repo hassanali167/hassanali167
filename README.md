@@ -65,12 +65,12 @@ Here are some highlights from my GitHub repositories:
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hassanali167&theme=dark)](https://git.io/streak-stats)
 
----
+--- -->
 
 ## 🧰 Tools & Technologies
 
