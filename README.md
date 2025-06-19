@@ -6,7 +6,6 @@
 
 ---
 
-
 ## 🧠 About Me
 
 I’m Hassan Ali, a driven 6th-semester Software Engineering student at PAF-IAST, fueled by a passion for Cloud Computing, DevOps, AI, and Cybersecurity. I specialize in designing secure, scalable systems—think automated CI/CD pipelines and AI-driven security tools. My experience at the Sino-Pak Center for Artificial Intelligence (SPCAI) has honed my ability to solve tough problems while leading and collaborating in dynamic teams.
